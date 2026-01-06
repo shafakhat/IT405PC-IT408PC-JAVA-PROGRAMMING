@@ -40,9 +40,9 @@ Process and Thread, Differences between thread-based multitasking and process-ba
 ### Java Database Connectivity: 
 Types of Drivers, JDBC architecture, JDBC Classes and Interfaces, Basic steps in Developing JDBC Application, Creating a New Database and Table with JDBC.  
 ## UNIT - V 
-### GUI Programming with Swing
+### GUI Programming with Swing:
 Introduction, limitations of AWT, MVC architecture, components, containers, Layout Manager Classes, Simple Applications using AWT and Swing. 
-### Event Handling- 
+### Event Handling: 
 The Delegation event model- Events, Event sources, Event Listeners, Event classes, Handling mouse and keyboard events, Adapter classes. ACE R24 B.Tech. IT Syllabus      
 ## TEXT BOOKS: 
 1. Java The Complete Reference, 9th edition, Herbert Schildt, McGraw-Hill Education (India) Pvt. Ltd.
