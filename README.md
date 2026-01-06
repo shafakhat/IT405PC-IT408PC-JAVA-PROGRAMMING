@@ -1,5 +1,5 @@
 # IT405PC-IT408PC-JAVA-PROGRAMMING 
-# SYLLABUS
+# ACE R24 B.Tech. IT SYLLABUS
 ## Course Objectives: 
   - To introduce object-oriented programming principles and apply them in solving problems.
   - To introduce the implementation of packages and interfaces.
@@ -43,7 +43,7 @@ Types of Drivers, JDBC architecture, JDBC Classes and Interfaces, Basic steps in
 ### GUI Programming with Swing:
 Introduction, limitations of AWT, MVC architecture, components, containers, Layout Manager Classes, Simple Applications using AWT and Swing. 
 ### Event Handling: 
-The Delegation event model- Events, Event sources, Event Listeners, Event classes, Handling mouse and keyboard events, Adapter classes. ACE R24 B.Tech. IT Syllabus      
+The Delegation event model- Events, Event sources, Event Listeners, Event classes, Handling mouse and keyboard events, Adapter classes.      
 ## TEXT BOOKS: 
 1. Java The Complete Reference, 9th edition, Herbert Schildt, McGraw-Hill Education (India) Pvt. Ltd.
 2. Understanding Object-Oriented Programming with Java, updated edition, T. Budd, Pearson Education.
